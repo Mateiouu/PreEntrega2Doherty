@@ -11,7 +11,7 @@ class Zapatilla{
     }
     agregarzapatilla(object){
         catalogo.push(object)
-
+        
 
     }
 }
